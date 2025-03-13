@@ -1,1 +1,0 @@
-print("Hello, Ajmal Basha!!!")
